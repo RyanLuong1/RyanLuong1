@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Luong</h1>
 <h3 align="center">I'm a 4th computer science student at California State University, Fullerton. I'm doing research at school as well.</h3>
 
-<h3 align="center">- 📫 How to reach me **Discord: Ryаn#6513** </h3>
+<h3 align="center">- 📫 How to reach me <b>Discord: Ryаn#6513<b> </h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
